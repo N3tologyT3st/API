@@ -8,5 +8,4 @@ public class Post {
     public boolean subscription;
 
 
-
 }
